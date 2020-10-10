@@ -16,7 +16,7 @@ var SVG_XLINK = 'http://www.w3.org/1999/xlink';
 // NOTATION SVGs ------------------ >
 var numDials = 2;
 var dials = [];
-//// DIAL Notation Data ///////////////////////////////////
+//// DIAL Notation Data ////////////////////////////////////
 //[url, w, h]
 var notationUrlsDimensions = [];
 for (var i = 0; i < numDials; i++) notationUrlsDimensions.push([]);
